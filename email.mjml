@@ -1,0 +1,72 @@
+<mjml>
+  <mj-head>
+    <mj-title>CR travels</mj-title>
+    <mj-attributes>
+      <mj-all font-family="sans-serif" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body>
+    
+    <mj-section>
+     <mj-column width="600px">
+      <mj-text  
+      align="center"
+      font-style="italic"
+      font-size="32px"
+      font-family="serif"
+      padding-top="40px"
+      padding-bottom="40px"> Costa Rica Travel</mj-text>
+    </mj-column>
+
+    </mj-section>
+
+  <!-- travel Image -->
+
+  <mj-section 
+   background-url="https://i.postimg.cc/q7Hg45wX/descarga.jpg"
+   background-size="cover"
+   background-repeat="no-repeat">
+
+  <mj-column>
+ 
+ <!-- Spacer component, used to give height to the background image. -->
+    <mj-spacer height="300px" />
+</mj-column>
+</mj-section>
+
+<mj-section background-color="#fff">
+  <mj-column width="450px">
+
+    <mj-text>
+     Costa Rica es un país pequeño pero gigante en biodiversidad, cultura y gastronomía. Además, es un destino para disfrutar cualquier época del año. Una manera de recorrerlo de punta a punta y de visitar sitios únicos que harán que lo lleve en su corazón para siempre, es a través de compañías capacitadas para brindarle la mejor experiencia y el mejor servicio. Rodéese de profesionales que le mostrarán el verdadero “pura vida”.
+
+    <mj-text>
+    </mj-text>
+
+    <!-- The Href attributes turns our image into a link. -->
+    
+</mj-section>
+
+<mj-section background-color="#fff">
+  <mj-column>
+
+    <mj-text align="center" >
+      Nuestras redes Sociales
+    </mj-text>
+
+  
+     <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+     <mj-social-element name="facebook" href="#">
+
+     <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+     <mj-social-element name="instagram" href="#">
+    
+
+  </mj-column>
+</mj-section>
+
+
+ 
+ 
+  </mj-body>
+</mjml>
